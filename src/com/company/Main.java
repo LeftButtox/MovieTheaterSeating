@@ -16,7 +16,8 @@ public class Main {
     public static String outputContent = "";
 
     public static void main(String[] args) throws IOException {
-//        C:/Users/Alex/Desktop/CodingChallenges/MovieTheaterSeatingChallenge/movieInput.txt";
+//        String fileName = "C:\\Users\\Alex\\Desktop\\CodingChallenges\\MovieTheaterSeatingChallenge\\movieInput.txt";
+//        String fileName = "C:/Users/Alex/Desktop/CodingChallenges/MovieTheaterSeatingChallenge/movieInput.txt";
         String fileName = args[0];
 
         String[] pathList = fileName.split("/");
