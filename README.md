@@ -1,0 +1,2 @@
+# MovieTheaterSeatingChallenge
+ Walmart Coding Challenge
